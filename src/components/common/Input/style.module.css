@@ -1,0 +1,45 @@
+.wrap{
+
+}
+
+.input{
+    all: unset;
+    width: 100%;
+    padding: 5px 0 0 15px;
+    text-align: left;
+    background-color: rgb(228, 228, 228);
+    box-sizing: border-box;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.label{
+    font-size: 14px;
+    color: rgb(90, 90, 90);
+    display: block;
+    text-align: left;
+    margin-bottom: 7px;
+
+}
+
+.label_active{
+    font-size: 14px;
+    color: rgb(90, 90, 90);
+    display: block;
+    text-align: left;
+    margin-bottom: 7px;
+    color: rgb(103, 211, 103);
+}
+
+.input_active{
+    all: unset;
+    width: 100%;
+    border-radius: 5px;
+    padding: 5px 0 0 15px;
+    text-align: left;
+    background-color: rgb(192, 248, 192);
+    box-sizing: border-box;
+    height: 35px;
+    border: 1px solid black;
+}
+

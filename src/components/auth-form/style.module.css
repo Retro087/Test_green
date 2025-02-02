@@ -1,0 +1,22 @@
+.wrap{
+    width: 550px;
+    margin: 0 auto;
+    height: 450px;
+    border: 1px solid black;
+    padding: 25px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.btn{
+    width: 250px;
+    height: 40px;
+    border: none;
+
+}
+
+.btn:hover{
+    background-color: rgb(190, 255, 201);
+    border: 1px solid black;
+}

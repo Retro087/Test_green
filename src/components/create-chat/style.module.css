@@ -1,0 +1,23 @@
+.wrap{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.356);
+}
+
+.con{
+    width: 550px;
+    height: 350px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.btn{
+    width: 250px;
+    height: 40px;
+}
